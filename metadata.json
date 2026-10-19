@@ -1,0 +1,6 @@
+{
+  "name": "ExcelQuest",
+  "description": "Play. Practice. Master Excel. Platform belajar Microsoft Excel interaktif dengan penjelasan bahasa bayi, spreadsheet studio langsung di browser, daily quest, dan studi kasus proyek nyata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
